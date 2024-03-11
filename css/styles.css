@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+}
+
+#cabecalho{
+    color:white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+
+.display{
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+}
+ .buttons{
+    text-align: center;
+    margin-top: 70px;
+    cursor: pointer;
+    
+ }
+#Start{
+    width: 150px;
+    height: 50px;
+    background-color: rgba(2, 122, 2, 0.562);
+    cursor: pointer;
+    font-size: 20px;
+    color: white;
+    
+}
+/*#Pause{
+    width: 150px;
+    height: 50px;
+    background-color:rgb(255, 255, 22);
+    cursor: pointer;
+    font-size: 20px;
+  
+}
+*/
+ .container{
+    margin-top: 50px;
+ }
+#Stop{
+    width: 150px;
+    height: 50px;
+    background-color: rgba(197, 2, 2, 0.89);
+    cursor: pointer;
+    font-size: 20px;
+    color: white;
+}
+
+#Reset{
+    width: 150px;
+    height: 50px;
+    background-color: rgba(3, 0, 207, 0.801);
+    cursor: pointer;
+    font-size: 20px;
+    color: white;
+}
